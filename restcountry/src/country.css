@@ -1,0 +1,18 @@
+.country-element {
+    border: 1px solid black;
+    padding: 2rem;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.country-element img {
+    width: 300px;
+    height: 200px;
+    border: 1px solid black;
+}
+
+.country-element span {
+    font-weight: 500;
+}
